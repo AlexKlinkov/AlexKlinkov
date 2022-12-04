@@ -2,21 +2,15 @@
 #### Recently projects ⚒️:
 
 * java-explore-with-me (🌍Web) ✅
-***
-The services help to visit events which are interested you, 
+>The services help to visit events which are interested you, 
 share it with your friends, stay comments and get static information about it 👨‍👨‍👦‍👦🥂📆
-***
 * java-shareit (🌍Web) ✅
-***
-The service which allows people exchange different things. 
+>The service which allows people exchange different things. 
 Make booking some items and put your own things for rent 
 by other users. 🤝🏼🔄📜
-***
 * java-filmorate (🌍Web) ✅
-***
-The service which allows estimating film, remain comments and 
+>The service which allows estimating film, remain comments and 
 choose take a compilation of films by your interesting 🎦👍🍿
-***
 #### About me:
 * My name is Alex and I am a Java-Developer 🎸💻
 ##### Languages and Tools 👅🔧
