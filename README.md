@@ -1,9 +1,9 @@
 ## Hello everyone 👋
 #### Recently projects ⚒️:
 
-* **java-explore-with-me (🌍Web) ✅**
->Help to visit events which are interested you, 
-share it with your friends, stay comments and get static information about it 🥂📆
+* **java-explore-with-me (🌍Web) ✅** \
+<sub>Help to visit events which are interested you, 
+share it with your friends, stay comments and get static information about it 🥂📆 </sub>
 * **java-shareit (🌍Web) ✅**
 >Allows people exchange different things. 
 Make booking some items and put your own things for rent 
