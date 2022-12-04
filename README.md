@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello 👋
+## My name is Alex 🎸
+## I am a Java-Developer 💻
+### Languages and Tools 👅🔧
+![Java](https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=oracle)
+![SQL](https://img.shields.io/badge/-SQL-green?style=for-the-badge&logo=PostgreSql)
+![Maven](https://img.shields.io/badge/-Maven-pink?style=for-the-badge&logo=apacheMaven)
+![FrameWork](https://img.shields.io/badge/-Spring_Boot-yellow?style=for-the-badge&logo=Springboot)
+![DOCKER](https://img.shields.io/badge/-Docker-yellow?style=for-the-badge&logo=Docker)
 
-<!--
-**AlexKlinkov/AlexKlinkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Follow me 🚗✈🚢
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Alex_Alex00)
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKlinkov&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
