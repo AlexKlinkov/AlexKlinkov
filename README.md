@@ -3,11 +3,11 @@
 #### My name is Alex 🎸
 #### I am a Java-Developer 💻
 #### Languages and Tools 👅🔧
-![Java](https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=oracle)
-![SQL](https://img.shields.io/badge/-SQL-green?style=for-the-badge&logo=PostgreSql)
+![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=oracle)
+![SQL](https://img.shields.io/badge/-SQL-ed?style=for-the-badge&logo=PostgreSql)
 ![Maven](https://img.shields.io/badge/-Maven-pink?style=for-the-badge&logo=apacheMaven)
 ![FrameWork](https://img.shields.io/badge/-Spring_Boot-yellow?style=for-the-badge&logo=Springboot)
-![DOCKER](https://img.shields.io/badge/-Docker-yellow?style=for-the-badge&logo=Docker)
+![DOCKER](https://img.shields.io/badge/-Docker-green?style=for-the-badge&logo=Docker)
 
 #### Follow me 🚗✈🚢
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Alex_Alex00)
