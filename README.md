@@ -1,3 +1,4 @@
+<h5 style=»color:blue;text-align:center;»></h5>
 ## Hello everyone 👋
 ### About me:
 #### My name is Alex 🎸
@@ -13,5 +14,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Alex_Alex00)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKlinkov&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AlexKlinkov&theme=noctis-minimus)](https://github.com/AlexKlinkov)
 
