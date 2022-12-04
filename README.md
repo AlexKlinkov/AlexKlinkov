@@ -1,4 +1,3 @@
-<h5 style=»color:blue;text-align:center;»></h5>
 ## Hello everyone 👋
 ### About me:
 #### My name is Alex 🎸
