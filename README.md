@@ -1,7 +1,12 @@
 ## Hello everyone 👋
-### About me:
-#### My name is Alex and I am a Java-Developer 🎸💻
-#### Languages and Tools 👅🔧
+#### Recently projects ⚒️:
+
+* java-explore-with-me (🌍Web) ✅
+* java-shareit (🌍Web) ✅
+* java-filmorate (🌍Web) ✅
+#### About me:
+* My name is Alex and I am a Java-Developer 🎸💻
+##### Languages and Tools 👅🔧
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=oracle)
 ![SQL](https://img.shields.io/badge/-SQL-ed?style=for-the-badge&logo=PostgreSql)
 ![Maven](https://img.shields.io/badge/-Maven-pink?style=for-the-badge&logo=apacheMaven)
