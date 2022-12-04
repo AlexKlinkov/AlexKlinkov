@@ -1,22 +1,16 @@
 ## Hello everyone 👋
 #### Recently projects ⚒️:
 
-* **java-explore-with-me (🌍Web) ✅** \
-<sub>
-Help to visit events which are interested you, 
-share it with your friends, stay comments and get static information about it 🥂📆 
-</sub>
-* **java-shareit (🌍Web) ✅** \
-<sub>
-Allow people exchange different things. 
+* **java-explore-with-me (🌍Web) ✅**
+<sub>Help to visit events which are interested you, 
+share it with your friends, stay comments and get static information about it 🥂📆</sub>
+* **java-shareit (🌍Web) ✅**
+<sub>Allow people exchange different things. 
 Make booking some items and put your own things for rent 
-by other users. 🤝🏼🔄📜 
-</sub>
-* **java-filmorate (🌍Web) ✅** \
-<sub>
-Allow estimating film, remain comments and 
-choose take a compilation of films by your interesting 🎦👍🍿
-</sub>
+by other users. 🤝🏼🔄📜</sub>
+* **java-filmorate (🌍Web) ✅** 
+<sub>Allow estimating film, remain comments and 
+choose take a compilation of films by your interesting 🎦👍🍿</sub>
 #### About me:
 * My name is Alex and I am a Java-Developer 🎸💻
 ##### Languages and Tools 👅🔧
