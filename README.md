@@ -17,7 +17,8 @@ by other users. 🤝🏼🔄📜</sub>
 choose take a compilation of films by your interesting 🎦👍🍿</sub>
 
 #### In free time
-* **make deciding algorithm problems** [![my solutions](https://img.shields.io/badge/-My_SOlutions-grey?style=for-the-badge&logo=)](https://github.com/AlexKlinkov/leetcode) from https://leetcode.com
+* **decide algorithms problems** from https://leetcode.com \
+  [![my solutions](https://img.shields.io/badge/-My_SOlutions-grey?style=for-the-badge&logo=)](https://github.com/AlexKlinkov/leetcode)
 ##### Languages and Tools 👅🔧
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=oracle)
 ![SQL](https://img.shields.io/badge/-SQL-ed?style=for-the-badge&logo=PostgreSql)
