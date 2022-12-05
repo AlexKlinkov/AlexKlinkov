@@ -1,9 +1,13 @@
 ## Hello everyone 👋
+
+#### About me:
+* My name is Alex and I am a Java-Developer 🎸💻
+
 #### Recently projects ⚒️:
 
 * **java-explore-with-me (🌍Web) ✅** \
-<sub><h3 style="color:#00CED1">Help to visit events which are interested you, 
-share it with your friends, stay comments and get static information about it 🥂📆</h3></sub>
+<sub>Help to visit events which are interested you, 
+share it with your friends, stay comments and get static information about it 🥂📆</sub>
 * **java-shareit (🌍Web) ✅** \
 <sub>Allow people exchange different things. 
 Make booking some items and put your own things for rent 
@@ -11,8 +15,9 @@ by other users. 🤝🏼🔄📜</sub>
 * **java-filmorate (🌍Web) ✅** \
 <sub>Allow estimating film, remain comments and 
 choose take a compilation of films by your interesting 🎦👍🍿</sub>
-#### About me:
-* My name is Alex and I am a Java-Developer 🎸💻
+
+#### In free time
+* **make deciding algorithm problems** [![my solutions](https://img.shields.io/badge/-My_SOlutions-grey?style=for-the-badge&logo=)](https://github.com/AlexKlinkov/leetcode) from https://leetcode.com
 ##### Languages and Tools 👅🔧
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=oracle)
 ![SQL](https://img.shields.io/badge/-SQL-ed?style=for-the-badge&logo=PostgreSql)
