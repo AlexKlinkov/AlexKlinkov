@@ -5,14 +5,14 @@
 
 ### Recently projects ⚒️:
 
-* **java-explore-with-me ![link](https://img.shields.io/badge/-link-orange?link=https://github.com/AlexKlinkov/java-explore-with-me) (🌍Web) ✅** \
+* **java-explore-with-me [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-explore-with-me) (🌍Web) ✅** \
 <sub>Helps to visit events which are interested you, 
 share it with your friends, stay comments and get static information about it 🥂📆</sub>
-* **java-shareit ![link](https://img.shields.io/badge/-link-orange?link=https://github.com/AlexKlinkov/java-shareit) (🌍Web) ✅** \
+* **java-shareit [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-shareit) (🌍Web) ✅** \
 <sub>Allows people exchange different things. 
 Make booking some items and put your own things for rent 
 by other users. 🤝🏼🔄📜</sub>
-* **java-filmorate ![link](https://img.shields.io/badge/-link-orange?link=https://github.com/AlexKlinkov/java-filmorate) (🌍Web) ✅** \
+* **java-filmorate [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-filmorate) (🌍Web) ✅** \
 <sub>Allows estimating film, remain comments and 
 choose take a compilation of films by your interesting 🎦👍🍿</sub>
 
