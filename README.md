@@ -30,5 +30,5 @@ choose take a compilation of films by your interesting [![link](https://img.shie
 ### Follow me 🚗✈🚢
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Alex_Alex00)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKlinkov&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexKlinkov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
