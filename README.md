@@ -25,7 +25,7 @@ share it with your friends, stay comments and get static information about it. [
 ![SQL](https://img.shields.io/badge/-SQL-ed?style=for-the-badge&logo=PostgreSql)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-pink?style=for-the-badge&logo=apacheMaven)
-![Spring](https://img.shields.io/badge/spring-boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=Spring Boot 2&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-9cf?style=for-the-badge&logo=hibernate)
 ![JDBC](https://img.shields.io/badge/JDBC-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
