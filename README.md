@@ -17,7 +17,7 @@ by other users. [![link](https://img.shields.io/badge/-link-orange?style=?style=
 share it with your friends, stay comments and get static information about it. [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-explore-with-me) </sub>
 
 ### In free time
-* **I decide algorithm problems from https://leetcode.com** 📚🅰️➡️🅱️ \
+* **I decide algorithm problems from https://leetcode.com** \
 [![my solutions](https://img.shields.io/badge/-MY_SOLUTIONS-blueviolet?style=?style=flat-square&logo=appveyor&logo=)](https://github.com/AlexKlinkov/leetcode)
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=oracle)
