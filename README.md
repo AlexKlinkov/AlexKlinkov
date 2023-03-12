@@ -35,6 +35,7 @@ share it with your friends, stay comments and get static information about it. [
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Alex_Alex00)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=telegram)](https://www.linkedin.com/in/aleksandr-klinkov)
 
 [![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexKlinkov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
