@@ -6,8 +6,8 @@
 ### Recently projects:
 
 * **java-usual-store (in progress)** (🌍Web) \
-<sub>Try to split project to 3 micro service, each of them accomplishes own functional: </sub>
-  * "getway-service" has to filter incorrect and not authorizations and not authentications queries;
+<sub>Here i would like to split project to 3 microservice, each of them accomplishes own functional: </sub>
+  * "getway-service" has to filter incorrect and not authorizations and not authentications queries (using Spring Security);
   * "store-service" is main service which allows users to buy products, remain comments, watching history of purchase and ect;
   * "start-up-service" allows person who has passed registration process to open their own company and located products in the stores.[![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-usual-store)
 * **java-filmorate** (🌍Web) \
