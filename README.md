@@ -40,6 +40,6 @@ share it with your friends, stay comments and get static information about it. [
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Alex_Alex00)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandr-klinkov)
 
-
-/*[![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexKlinkov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)*/
+<!-- Add the link reference below this section -->
+[![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexKlinkov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
