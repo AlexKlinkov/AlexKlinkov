@@ -6,7 +6,7 @@
 ### Recently projects:
 
 * **AntiFraudSystem (bank app)** (🌍Web) \
-<sub>This project imitative a bank app. It helped me to sort spring security out better[![link]([https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-usual-store](https://github.com/AlexKlinkov/AntiFraudSystem/tree/master))</sub>
+<sub>This project imitative a bank app. It helped me to sort **spring security** out better[![link]([https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-usual-store](https://github.com/AlexKlinkov/AntiFraudSystem/tree/master) </sub>
 * **java-filmorate** (🌍Web) \
 <sub>Allows estimating film, remain comments and 
 choose take a compilation of films according to your interesting [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-filmorate) </sub>
@@ -41,5 +41,5 @@ share it with your friends, stay comments and get static information about it. [
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandr-klinkov)
 
 
-[![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexKlinkov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+/*[![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexKlinkov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)*/
 
