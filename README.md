@@ -8,7 +8,7 @@
 * **AntiFraudSystem (bank app)** (🌍Web) \
 <sub>This project imitative a bank app. It helped me to sort **spring security** out better [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/AntiFraudSystem) </sub>
 * **Recipes** (🌍Web) \
-<sub>This project allows to save recipes, share it with others and also get know new recipes. It helped me to consolidate previous got knowledge about **spring security** [![link](https://github.com/AlexKlinkov/Recipes) </sub>
+<sub>This project allows to save recipes, share it with others and also get know new recipes. It helped me to consolidate previous got knowledge about **spring security** [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/Recipes) </sub>
 * **java-filmorate** (🌍Web) \
 <sub>Allows estimating film, remain comments and 
 choose take a compilation of films according to your interesting [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-filmorate) </sub>
