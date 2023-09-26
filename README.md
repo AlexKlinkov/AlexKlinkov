@@ -5,6 +5,8 @@
 
 ### Recently projects:
 
+* **java-reflect-status-of-orders** (🌍Web) \
+<sub>This an example of app which demonstrates integration with a cafe service. The app takes and modify data in **XML format** and return status of orders in **JSON format** to the ended client. [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-reflect-status-of-orders) </sub>
 * **AntiFraudSystem (bank app)** (🌍Web) \
 <sub>This project imitative a bank app. It helped me to sort **spring security** out better [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/AntiFraudSystem) </sub>
 * **Recipes** (🌍Web) \
@@ -23,7 +25,6 @@ share it with your friends, stay comments and get static information about it. [
 ### In free time
 * **I decide algorithm problems from https://leetcode.com** \
 [![my solutions](https://img.shields.io/badge/-MY_SOLUTIONS-blueviolet?style=?style=flat-square&logo=appveyor&logo=)](https://github.com/AlexKlinkov/leetcode)
-* **I make pets projects, right now "java-usual-store"** 
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=oracle)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
