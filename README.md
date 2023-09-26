@@ -6,7 +6,7 @@
 ### Recently projects:
 
 * **java-reflect-status-of-orders** (🌍Web) \
-<sub>This an example of app which demonstrates integration with a cafe service. The app takes and modify data in **XML format** and return status of orders in **JSON format** to the ended client. [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-reflect-status-of-orders) </sub>
+<sub>This an example of app which demonstrates integration with a cafe service. The app takes and modify data  **XML format** and return statuses and kits of reflection criteria of orders in **JSON format** to the ended client. [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-reflect-status-of-orders) </sub>
 * **AntiFraudSystem (bank app)** (🌍Web) \
 <sub>This project imitative a bank app. It helped me to sort **spring security** out better [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/AntiFraudSystem) </sub>
 * **Recipes** (🌍Web) \
