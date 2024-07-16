@@ -6,9 +6,9 @@
 ### Recently projects:
 
 * **MyJAAS** (🌍Web) \
-<sub>The service, which responsibility for user authentication and authorization process based on user's roles and his subscriptions. The service works using **https protocol** and **CSRF token**. [![link](https://img.shields.io/badge/-link-darkgreen?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-reflect-status-of-orders) </sub>
+<sub>The service, which responsibility for user authentication and authorization process based on user's roles and subscriptions, using **https protocol** and **CSRF token**. [![link](https://img.shields.io/badge/-link-darkgreen?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-reflect-status-of-orders) </sub>
 * **java-reflect-status-of-orders** (🌍Web) \
-<sub>This an example of app which demonstrates integration with a cafe service. The app takes and modify data  **XML format** and return statuses and kits of reflection criteria of orders in **JSON format** to the ended client. [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-reflect-status-of-orders) </sub>
+<sub>This app demonstrates integration with a cafe service, taking and modifying data  **XML format** and then return statuses and kits of reflection criteria of orders in **JSON format** to the ended client. [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-reflect-status-of-orders) </sub>
 * **AntiFraudSystem (bank app)** (🌍Web) \
 <sub>This project imitative a bank app. It helped me to sort **spring security** out better [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/AntiFraudSystem) </sub>
 * **java-explore-with-me**(🌍Web) \
