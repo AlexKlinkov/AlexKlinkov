@@ -3,18 +3,18 @@
 ### About me:
 * My name is Alex and I am a Java-Developer
 
-### Recently projects:
+### Recently projects (🌍Web):
 
-* **MyJAAS** (🌍Web) \
+* **MyJAAS** \
 <sub>The service, which responsibility for user authentication and authorization process based on user's roles and subscriptions, using **https protocol** and **CSRF token**. [![link](https://img.shields.io/badge/-link-darkgreen?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/MyJAAS) </sub>
-* **java-reflect-status-of-orders** (🌍Web) \
+* **java-reflect-status-of-orders** \
 <sub>The app integrates with a cafe service, taking and modifying data **XML format** and then return statuses and kits of reflection criteria of orders in **JSON format**. [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-reflect-status-of-orders) </sub>
-* **AntiFraudSystem (bank app)** (🌍Web) \
+* **AntiFraudSystem (bank app)** \
 <sub>This project imitative a bank app. It helped me to sort **spring security** out better [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/AntiFraudSystem) </sub>
-* **java-explore-with-me**(🌍Web) \
+* **java-explore-with-me** \
 <sub>Helps to visit events which are interested you, 
 share it with your friends, stay comments and get static information about it. [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-explore-with-me) </sub>
-* **java-filmorate** (🌍Web) \
+* **java-filmorate** \
 <sub>Allows estimating film, remain comments and 
 choose take a compilation of films according to your interesting [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-filmorate) </sub>
 
