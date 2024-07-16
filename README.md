@@ -6,7 +6,7 @@
 ### Recently projects:
 
 * **MyJAAS** (🌍Web) \
-<sub>The service, which responsibility for user authentication and authorization process based on user's roles and subscriptions, using **https protocol** and **CSRF token**. [![link](https://img.shields.io/badge/-link-darkgreen?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-reflect-status-of-orders) </sub>
+<sub>The service, which responsibility for user authentication and authorization process based on user's roles and subscriptions, using **https protocol** and **CSRF token**. [![link](https://img.shields.io/badge/-link-darkgreen?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/MyJAAS) </sub>
 * **java-reflect-status-of-orders** (🌍Web) \
 <sub>The app integrates with a cafe service, taking and modifying data **XML format** and then return statuses and kits of reflection criteria of orders in **JSON format**. [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-reflect-status-of-orders) </sub>
 * **AntiFraudSystem (bank app)** (🌍Web) \
