@@ -5,22 +5,18 @@
 
 ### Recently projects:
 
+* **MyJAAS** (🌍Web) \
+<sub>The simple implementation of a service, which responsibles for user authentication and authorization process, on bases user's roles and subscription. The service works using **https protocol** and **CSRF token**. [![link](https://img.shields.io/badge/-link-green?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-reflect-status-of-orders) </sub>
 * **java-reflect-status-of-orders** (🌍Web) \
 <sub>This an example of app which demonstrates integration with a cafe service. The app takes and modify data  **XML format** and return statuses and kits of reflection criteria of orders in **JSON format** to the ended client. [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-reflect-status-of-orders) </sub>
 * **AntiFraudSystem (bank app)** (🌍Web) \
 <sub>This project imitative a bank app. It helped me to sort **spring security** out better [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/AntiFraudSystem) </sub>
-* **Recipes** (🌍Web) \
-<sub>This project allows to save recipes, share it with others and also get know new recipes. It helped me to consolidate previous got knowledge about **spring security** [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/Recipes) </sub>
-* **java-filmorate** (🌍Web) \
-<sub>Allows estimating film, remain comments and 
-choose take a compilation of films according to your interesting [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-filmorate) </sub>
-* **java-shareit** (🌍Web) \
-<sub>Allows people exchange different things. 
-Make booking some items and put your own things for rent 
-by other users. [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-shareit) </sub>
 * **java-explore-with-me**(🌍Web) \
 <sub>Helps to visit events which are interested you, 
 share it with your friends, stay comments and get static information about it. [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-explore-with-me) </sub>
+* **java-filmorate** (🌍Web) \
+<sub>Allows estimating film, remain comments and 
+choose take a compilation of films according to your interesting [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-filmorate) </sub>
 
 ### In free time
 * **I decide algorithm problems from https://leetcode.com** \
