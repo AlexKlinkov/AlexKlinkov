@@ -22,10 +22,9 @@ share it with your friends, stay comments and get static information about it. [
 [![my solutions](https://img.shields.io/badge/-MY_SOLUTIONS-blueviolet?style=?style=flat-square&logo=appveyor&logo=)](https://github.com/AlexKlinkov/leetcode)
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=oracle)
-![SQL](https://img.shields.io/badge/-SQL-ed?style=for-the-badge&logo=PostgreSql)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-pink?style=for-the-badge&logo=apacheMaven)
 ![Spring-Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-9cf?style=for-the-badge&logo=hibernate)
 ![JDBC](https://img.shields.io/badge/JDBC-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
