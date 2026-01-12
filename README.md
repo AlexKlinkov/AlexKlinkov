@@ -4,7 +4,8 @@
 * My name is Alex and I am a Java-Developer
 
 ### Recently projects (🌍Web):
-
+* **javaSubProvider** \
+<sub>The desktop app for Windows OS for adding automatically generated subtitles to video files and save it like new ones. [![link](https://img.shields.io/badge/-link-darkgreen?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/javaSubProvider) </sub>
 * **java-bonds-advisor** \
 <sub>The app gives some info about bonds allocated at MOEX, using **Apache Kafka** and free internet resources. [![link](https://img.shields.io/badge/-link-darkgreen?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-bonds-advisor) </sub>
 * **MyJAAS** \
@@ -13,9 +14,6 @@
 <sub>The app integrates with a cafe service, taking and modifying data **XML format** and then return statuses and kits of reflection criteria of orders in **JSON format**. [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-reflect-status-of-orders) </sub>
 * **AntiFraudSystem (bank app)** \
 <sub>This project imitative a bank app. It helped me to sort **spring security** out better [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/AntiFraudSystem) </sub>
-* **java-explore-with-me** \
-<sub>Helps to visit events which are interested you, 
-share it with your friends, stay comments and get static information about it. [![link](https://img.shields.io/badge/-link-orange?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-explore-with-me) </sub>
 
 ### In free time
 * **I decide algorithm problems from https://leetcode.com** \
@@ -32,7 +30,7 @@ share it with your friends, stay comments and get static information about it. [
 
 ### Follow me
 <div id="header">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhodHUwc3lpNnFuYjNjbGM3aDAxbHRjYzMwM2lmdXBtM3d2eGFrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" width="100"/>
+  <img src="https://tenor.com/ru/view/cat-computer-typing-keyboard-laptop-gif-5081651.gif" width="100"/>
   <br>
     <a href="https://t.me/Alex_Alex00">
     <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram"/>
