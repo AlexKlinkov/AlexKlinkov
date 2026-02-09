@@ -5,7 +5,7 @@
 
 ### Recently projects (🌍Web):
 * **java-bond-adviser-short-multithreaded-version** \
-<sub>The short multithreaded version of the app: **java-bonds-advisor** gives some advices about bonds are accommodated at MOEX **in async approach**. [![link](https://img.shields.io/badge/-link-darkgreen?style=?style=plastic&logo=appveyor&logo=)](java-bond-adviser-short-multithreaded-version) </sub>
+<sub>The short multithreaded version of the app: **java-bonds-advisor** gives some advices about bonds are accommodated at MOEX **in async approach**. [![link](https://img.shields.io/badge/-link-darkgreen?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-bond-adviser-short-multithreaded-version) </sub>
 * **javaSubProvider** \
 <sub>The desktop app for Windows OS for adding automatically generated subtitles to video files and save it like new ones. [![link](https://img.shields.io/badge/-link-darkgreen?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/javaSubProvider) </sub>
 * **java-bonds-advisor** \
