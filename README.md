@@ -18,6 +18,7 @@
 ### In free time
 * **I decide algorithm problems from https://leetcode.com** \
 [![my solutions](https://img.shields.io/badge/-MY_SOLUTIONS-blueviolet?style=?style=flat-square&logo=appveyor&logo=)](https://github.com/AlexKlinkov/leetcode)
+[![MY_ALGORITHM_PATTERNS](https://img.shields.io/badge/-MY_REFILLABLE_COLLECTION_OF_ALGORITHM_PATTERNS-darkgreen?style=flat-square)](https://github.com/AlexKlinkov/java-algorithm-patterns)  
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=oracle)
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
