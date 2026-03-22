@@ -3,7 +3,7 @@
 ### About me:
 * My name is Alex and I am a Java-Developer
 
-### Recently projects (🌍Web):
+### Recently projects:
 * **java-bond-adviser-short-multithreaded-version** \
 <sub>The short multithreaded version of the app: **java-bonds-advisor** gives some advices about bonds are accommodated at MOEX **in async approach**. [![link](https://img.shields.io/badge/-link-darkgreen?style=?style=plastic&logo=appveyor&logo=)](https://github.com/AlexKlinkov/java-bond-adviser-short-multithreaded-version) </sub>
 * **javaSubProvider** \
